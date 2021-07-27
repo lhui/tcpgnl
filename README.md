@@ -3,7 +3,6 @@ Welcome to here. tcpgnl's Github Space. It is so lucy to meet you.
 
 I am a software enginner in China. 
 <!--
-**lhui/lhui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
