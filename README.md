@@ -3,7 +3,6 @@ Welcome to here. tcpgnl's Github Space. It is so lucy to meet you.
 
 I am a software enginner in China.   
 
-![The Value Of Life](./the_value_of_life.png)
 
 <!--
 
